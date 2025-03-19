@@ -1,7 +1,8 @@
 # InspireMe - Random Quote Generator📝
 
 A simple web application that displays a random quote and allows you to generate a random background image.
-![image](https://github.com/user-attachments/assets/6fc8c047-0ad9-4142-a04f-992a149c749c)
+![image](https://github.com/user-attachments/assets/6e91dbbf-5522-4600-91ac-5d6df5667482)
+
 
 ## Features
 
